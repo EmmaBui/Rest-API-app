@@ -1,7 +1,0 @@
-{
-    "env": {
-        "MONGO_USER": "Emma123",
-        "MONGO_PASSWORD": "Emma123",
-        "MONGO_DEFAULT_DATABASE": "messages"
-    }
-}
